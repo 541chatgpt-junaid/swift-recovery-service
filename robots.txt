@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://swift-recovery-service-phi.vercel.app/sitemap.xml
